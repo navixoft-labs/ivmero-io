@@ -1,0 +1,37 @@
+baseURL: http://ivmero.io
+languageCode: en-us
+title: My New Hugo Site
+theme: Eclectic
+author:
+   twitter: "https://twitter.com/iUberCoder"
+   email: "navixoft@gmail.com"
+   name: "Ivmero Labs"
+   location: Mexico City
+   phone: +52 55 2330 8030
+   hours: "**Mon-Fri:** 9:00AM - 6:00PM, CT"
+menu:
+   main:
+      - identifier: about
+        name: About
+        url: /about
+        weight: 1
+      - identifier: contact
+        name: Contact
+        url: /contact
+        weight: 2
+params:
+   color: "#ff0f10"
+   copyright: "Copyright &copy; 2022 Ivermo Labs. All rights reserved."
+   footer:
+      - title: About
+        content: >
+          Ivmero Labs is a shop to make real your idea,
+          talk with us we can make it shin on the internet 
+          or on the mobile.
+        
+      - title: Recent Blog Posts
+        recents: blog
+        recentCount: 7
+      - title: Contact Us
+        contact: true
+   
