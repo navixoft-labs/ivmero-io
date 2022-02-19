@@ -1,4 +1,4 @@
-baseURL: http://ivmero.io
+baseURL: https://ivmero.io
 languageCode: en-us
 title: My New Hugo Site
 theme: Eclectic
@@ -7,7 +7,7 @@ author:
    email: "navixoft@gmail.com"
    name: "Ivmero Labs"
    location: Mexico City
-   phone: +52 55 2330 8030
+   phone: +52 55 5555 6666
    hours: "**Mon-Fri:** 9:00AM - 6:00PM, CT"
 menu:
    main:
